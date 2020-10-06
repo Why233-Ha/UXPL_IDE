@@ -1,0 +1,11 @@
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\bin\Debug\uxpl_IDE_Windows.exe.config
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\bin\Debug\uxpl_IDE_Windows.exe
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\bin\Debug\uxpl_IDE_Windows.pdb
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.csprojAssemblyReference.cache
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.Form1.resources
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.Properties.Resources.resources
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.csproj.GenerateResource.cache
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.exe
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.pdb
+C:\Users\Why233_Ha\source\repos\uxpl_IDE_Windows\uxpl_IDE_Windows\obj\Debug\uxpl_IDE_Windows.Form2.resources
